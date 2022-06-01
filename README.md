@@ -6,6 +6,7 @@
 ## 使用方法
 1. インスタンスにgitをインストール
 ```
+sudo apt update
 sudo apt install -y git
 ```
 
